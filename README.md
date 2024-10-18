@@ -1,12 +1,13 @@
 # Retail Analysis with Walmart Data
 
-1. [Project Motivation](#ProjectMotivation)
-2. [Installation](#installation)
-3. [Data](#data)
-4. [Implementation](#model)
-5. [Results](#results)
+- [Retail Analysis with Walmart Data](#retail-analysis-with-walmart-data)
+  - [1. Motivation ](#1-motivation-)
+  - [2. Installation ](#2-installation-)
+  - [3. Data](#3-data)
+  - [4. Implementation ](#4-implementation-)
+  - [5. Result](#5-result)
 
-## 1. Project Motivation <a name="ProjectMotivation"></a> 
+## 1. Motivation <a name="ProjectMotivation"></a> 
 
 **In this project we focused retail analysis with Walmart data and answer the following questions:**
 1. Which stores have maximum  and sales?
